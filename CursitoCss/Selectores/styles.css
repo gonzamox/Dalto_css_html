@@ -1,3 +1,9 @@
-p{
+li {
+    color: red;
+}
+.faltante {
+    color: green;
+}
+#ingrediente-secreto {
     color: blue;
 }
